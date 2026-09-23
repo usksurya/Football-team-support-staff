@@ -1,0 +1,430 @@
+{
+  "club": "Atletico Madrid",
+  "season": "2026/27",
+  "model": "Asymmetric phase-change system",
+  "core_identity": "Compact structure, aggressive transitions, vertical control, elite defensive discipline",
+  "financial_profile": {
+    "wage_to_revenue_efficiency": "~56%",
+    "strategic_priority": "sustainable competitiveness and low leverage"
+  },
+  "squad_summary": {
+    "average_age": "25.8-26.6",
+    "team_style": "high-intensity, controlled transitions, narrow compactness",
+    "depth_concern": "senior central defensive depth is the key structural risk"
+  },
+  "players": [
+    {
+      "name": "Jan Oblak",
+      "position": "GK",
+      "minutes": 540.0,
+      "matches_played": 6,
+      "role": "Core Starter",
+      "quality": "medium",
+      "pedigree": "senior option",
+      "load_profile": "high",
+      "injury_risk": "low-medium",
+      "youth_flag": false,
+      "fits": [
+        "goalkeeper depth"
+      ]
+    },
+    {
+      "name": "Dávid Hancko",
+      "position": "DF",
+      "minutes": 456.0,
+      "matches_played": 6,
+      "role": "Core Starter",
+      "quality": "medium",
+      "pedigree": "senior option",
+      "load_profile": "high",
+      "injury_risk": "low-medium",
+      "youth_flag": false,
+      "fits": [
+        "3CB base",
+        "back four"
+      ]
+    },
+    {
+      "name": "Álex Grimaldo",
+      "position": "DF,MF",
+      "minutes": 444.0,
+      "matches_played": 5,
+      "role": "Core Starter",
+      "quality": "medium",
+      "pedigree": "senior option",
+      "load_profile": "high",
+      "injury_risk": "low-medium",
+      "youth_flag": false,
+      "fits": [
+        "wing-back",
+        "3CB hybrid"
+      ]
+    },
+    {
+      "name": "Ademola Lookman",
+      "position": "FW,MF",
+      "minutes": 432.0,
+      "matches_played": 6,
+      "role": "Core Starter",
+      "quality": "medium",
+      "pedigree": "senior option",
+      "load_profile": "high",
+      "injury_risk": "low-medium",
+      "youth_flag": false,
+      "fits": [
+        "wide forward",
+        "box overload"
+      ]
+    },
+    {
+      "name": "Álex Baena",
+      "position": "MF,FW",
+      "minutes": 386.0,
+      "matches_played": 6,
+      "role": "Core Starter",
+      "quality": "medium",
+      "pedigree": "senior option",
+      "load_profile": "high",
+      "injury_risk": "low-medium",
+      "youth_flag": false,
+      "fits": [
+        "wide forward",
+        "box overload"
+      ]
+    },
+    {
+      "name": "Giuliano Simeone",
+      "position": "MF",
+      "minutes": 385.0,
+      "matches_played": 6,
+      "role": "Core Starter",
+      "quality": "medium",
+      "pedigree": "senior option",
+      "load_profile": "high",
+      "injury_risk": "low-medium",
+      "youth_flag": false,
+      "fits": [
+        "double pivot",
+        "half-space"
+      ]
+    },
+    {
+      "name": "Lee Kang-in",
+      "position": "FW,MF",
+      "minutes": 377.0,
+      "matches_played": 6,
+      "role": "Core Starter",
+      "quality": "medium",
+      "pedigree": "senior option",
+      "load_profile": "high",
+      "injury_risk": "low-medium",
+      "youth_flag": false,
+      "fits": [
+        "wide forward",
+        "box overload"
+      ]
+    },
+    {
+      "name": "Marcos Llorente",
+      "position": "DF,MF",
+      "minutes": 374.0,
+      "matches_played": 6,
+      "role": "Core Starter",
+      "quality": "medium",
+      "pedigree": "senior option",
+      "load_profile": "high",
+      "injury_risk": "low-medium",
+      "youth_flag": false,
+      "fits": [
+        "wing-back",
+        "3CB hybrid"
+      ]
+    },
+    {
+      "name": "Marc Pubill",
+      "position": "DF",
+      "minutes": 358.0,
+      "matches_played": 5,
+      "role": "Core Starter",
+      "quality": "medium",
+      "pedigree": "senior option",
+      "load_profile": "high",
+      "injury_risk": "low-medium",
+      "youth_flag": false,
+      "fits": [
+        "3CB base",
+        "back four"
+      ]
+    },
+    {
+      "name": "Morten Hjulmand",
+      "position": "MF",
+      "minutes": 341.0,
+      "matches_played": 6,
+      "role": "Core Starter",
+      "quality": "medium",
+      "pedigree": "senior option",
+      "load_profile": "high",
+      "injury_risk": "low-medium",
+      "youth_flag": false,
+      "fits": [
+        "double pivot",
+        "half-space"
+      ]
+    },
+    {
+      "name": "Koke",
+      "position": "MF",
+      "minutes": 314.0,
+      "matches_played": 6,
+      "role": "Core Starter",
+      "quality": "medium",
+      "pedigree": "senior option",
+      "load_profile": "high",
+      "injury_risk": "low-medium",
+      "youth_flag": false,
+      "fits": [
+        "double pivot",
+        "half-space"
+      ]
+    },
+    {
+      "name": "Pablo Barrios",
+      "position": "MF",
+      "minutes": 295.0,
+      "matches_played": 4,
+      "role": "Starter / Rotation",
+      "quality": "low",
+      "pedigree": "senior option",
+      "load_profile": "medium",
+      "injury_risk": "low-medium",
+      "youth_flag": false,
+      "fits": [
+        "double pivot",
+        "half-space"
+      ]
+    },
+    {
+      "name": "Robin Le Normand",
+      "position": "DF",
+      "minutes": 255.0,
+      "matches_played": 3,
+      "role": "Starter / Rotation",
+      "quality": "low",
+      "pedigree": "senior option",
+      "load_profile": "medium",
+      "injury_risk": "low-medium",
+      "youth_flag": false,
+      "fits": [
+        "3CB base",
+        "back four"
+      ]
+    },
+    {
+      "name": "Cristian Romero",
+      "position": "DF",
+      "minutes": 189.0,
+      "matches_played": 3,
+      "role": "Rotation / Squad Member",
+      "quality": "low",
+      "pedigree": "limited minutes",
+      "load_profile": "medium",
+      "injury_risk": "low-medium",
+      "youth_flag": false,
+      "fits": [
+        "3CB base",
+        "back four"
+      ]
+    },
+    {
+      "name": "Arnau Ortiz",
+      "position": "MF",
+      "minutes": 152.0,
+      "matches_played": 5,
+      "role": "Rotation / Squad Member",
+      "quality": "low",
+      "pedigree": "limited minutes",
+      "load_profile": "medium",
+      "injury_risk": "low-medium",
+      "youth_flag": false,
+      "fits": [
+        "double pivot",
+        "half-space"
+      ]
+    },
+    {
+      "name": "Johnny Cardoso",
+      "position": "MF",
+      "minutes": 137.0,
+      "matches_played": 4,
+      "role": "Rotation / Squad Member",
+      "quality": "low",
+      "pedigree": "limited minutes",
+      "load_profile": "medium",
+      "injury_risk": "low-medium",
+      "youth_flag": false,
+      "fits": [
+        "double pivot",
+        "half-space"
+      ]
+    },
+    {
+      "name": "Rodrigo Mendoza",
+      "position": "MF",
+      "minutes": 107.0,
+      "matches_played": 3,
+      "role": "Rotation / Squad Member",
+      "quality": "low",
+      "pedigree": "limited minutes",
+      "load_profile": "medium",
+      "injury_risk": "low-medium",
+      "youth_flag": true,
+      "fits": [
+        "double pivot",
+        "half-space"
+      ]
+    },
+    {
+      "name": "Jonathan David",
+      "position": "FW",
+      "minutes": 98.0,
+      "matches_played": 2,
+      "role": "Rotation / Squad Member",
+      "quality": "low",
+      "pedigree": "limited minutes",
+      "load_profile": "medium",
+      "injury_risk": "low-medium",
+      "youth_flag": true,
+      "fits": [
+        "central striker",
+        "pressing front"
+      ]
+    },
+    {
+      "name": "Daniel Martinez",
+      "position": "DF",
+      "minutes": 90.0,
+      "matches_played": 1,
+      "role": "Rotation / Squad Member",
+      "quality": "low",
+      "pedigree": "limited minutes",
+      "load_profile": "medium",
+      "injury_risk": "low-medium",
+      "youth_flag": true,
+      "fits": [
+        "3CB base",
+        "back four"
+      ]
+    },
+    {
+      "name": "Julián Álvarez",
+      "position": "FW,MF",
+      "minutes": 57.0,
+      "matches_played": 2,
+      "role": "Rotation / Squad Member",
+      "quality": "low",
+      "pedigree": "limited minutes",
+      "load_profile": "medium",
+      "injury_risk": "low-medium",
+      "youth_flag": true,
+      "fits": [
+        "wide forward",
+        "box overload"
+      ]
+    },
+    {
+      "name": "Carlos Martín",
+      "position": "MF",
+      "minutes": 56.0,
+      "matches_played": 1,
+      "role": "Rotation / Squad Member",
+      "quality": "low",
+      "pedigree": "limited minutes",
+      "load_profile": "medium",
+      "injury_risk": "low-medium",
+      "youth_flag": true,
+      "fits": [
+        "double pivot",
+        "half-space"
+      ]
+    },
+    {
+      "name": "Jorge Domínguez",
+      "position": "DF",
+      "minutes": 45.0,
+      "matches_played": 1,
+      "role": "Rotation / Squad Member",
+      "quality": "low",
+      "pedigree": "limited minutes",
+      "load_profile": "medium",
+      "injury_risk": "low-medium",
+      "youth_flag": true,
+      "fits": [
+        "3CB base",
+        "back four"
+      ]
+    },
+    {
+      "name": "José María Giménez",
+      "position": "DF",
+      "minutes": 37.0,
+      "matches_played": 2,
+      "role": "Rotation / Squad Member",
+      "quality": "low",
+      "pedigree": "limited minutes",
+      "load_profile": "medium",
+      "injury_risk": "low-medium",
+      "youth_flag": true,
+      "fits": [
+        "3CB base",
+        "back four"
+      ]
+    }
+  ],
+  "team_constraints": {
+    "primary_risk": "Only 3 centre-back options with meaningful minutes available (Dávid Hancko, Marc Pubill, Robin Le Normand) plus depth: Cristian Romero, Daniel Martinez, Jorge Domínguez, José María Giménez - central defensive depth is the key structural risk.",
+    "rotation_priority": "Protect central defensive and goalkeeper depth while rotating midfield and wide attackers.",
+    "tactical_priority": "Maintain shape integrity without compromising wide balance and transition security.",
+    "bench_note": "Last sync produced 23 players; 11 are flagged Core Starters."
+  },
+  "systems": [
+    {
+      "name": "3-5-2 / 3-4-3 hybrid",
+      "best_for": [
+        "compact blocks",
+        "transition-rich phases"
+      ],
+      "risk": "requires strong central depth and disciplined wide coverage"
+    },
+    {
+      "name": "3-2-5 or asymmetric 3CB structure",
+      "best_for": [
+        "dominant possession phases",
+        "attacking overloads"
+      ],
+      "risk": "can expose wide channels when the fullback pushes high"
+    }
+  ],
+  "recommended_workflow": {
+    "dossier_rule": "Load team dossier first, then map roster to match context before recommending a system",
+    "rotation_focus": "Protect the senior center-back line while rotating midfield and wide attacking profiles",
+    "injury_strategy": "Keep at least one senior CB alternative available when possible"
+  },
+  "dataset_validation_metrics": {
+    "dataset_matches_analyzed": 3313,
+    "historical_win_rate_pct": 49.4,
+    "data_span": "1929-02-10 to 2025-09-21",
+    "goals_for_against": "5693.0-3959.0",
+    "peak_scoring_window": "peak 78'",
+    "peak_conceded_window": "peak 78'",
+    "conceded_share_75_90_pct": 24.4,
+    "recommended_sub_windows": [
+      "60'–74'",
+      "75'–89'",
+      "45'–59'"
+    ],
+    "substitution_events": 2581,
+    "source": "results/games.parquet (1888-2025) + goals_time (La Liga/CL/EL) + goals_time2 (La Liga match incidents)"
+  },
+  "data_season": "FBref 26-27"
+}
